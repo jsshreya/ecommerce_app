@@ -1,8 +1,6 @@
 # 🛍️ My Store - Animated E-Commerce App
 
-A modern Flutter e-commerce application with product browsing, 
-search, category filtering, wishlist, cart management, animations, 
-dark mode, local cart persistence, and a checkout flow.
+A modern Flutter e-commerce application with product browsing, search, category filtering, wishlist, cart management, animations, dark mode, local cart persistence, and a checkout flow.
 
 ## ✨ Features
 
@@ -50,26 +48,34 @@ lib/
 ├── services/
 ├── widgets/
 └── main.dart
+```
 
-## Screenshots
+## 📸 Screenshots
 
-### Home Screen
+### 🏠 Home Screen
+
 ![Home Screen](homepage.png)
 
-### Search & Category Filtering
+### 🔍 Search & Category Filtering
+
 ![Search and Category Filtering](Search%20category%20filtering.png)
 
-### Wishlist
+### ❤️ Wishlist
+
 ![Wishlist](Wishlist.png)
 
-### Product Details
+### 🖼️ Product Details
+
 ![Product Details](product%20details.png)
 
-### Cart
+### 🛒 Cart
+
 ![Cart](cart.png)
 
-### Checkout
+### 💳 Checkout
+
 ![Checkout](checkout.png)
 
-### Order Placed
+### 🎉 Order Placed
+
 ![Order Placed](oder%20placed.png)
