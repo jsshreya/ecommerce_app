@@ -74,6 +74,10 @@ lib/
 
 ### 💳 Checkout
 
+## 📥 Download APK
+
+[Download ecommerce_app APK](https://drive.google.com/file/d/1zSVXcp8cj1PjnQjPdWyXuw5OhFbUCBz8/view?usp=sharing)
+
 ![Checkout](checkout.png)
 
 ### 🎉 Order Placed
